@@ -1,6 +1,8 @@
 What is your 'x'?
 
-INFINITE POSIBILITIES WITH RED HAT JBOSS XPAAS ON OPENSHIFT
+Infinite Posibilities with Red Hat JBoss xPaaS on OpenShift
+
+A introduction session to all kinds of OpenShift, xPaaS and the Devoxx 2014 JBoss Demo with FeedHenry
 
 
 
